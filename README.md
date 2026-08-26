@@ -11,7 +11,7 @@
   <sup>4</sup>City University of Hong Kong
 </p>
 
-<p align="center"><b>Preprint, 2026</b></p>
+<p align="center"><b>Findings of EMNLP 2026</b></p>
 
 <p align="center">
   <a href="https://fresh-ma.github.io/HarmProfile/"><img src="https://img.shields.io/badge/Website-HarmProfile-2563eb" alt="Project website"></a>
